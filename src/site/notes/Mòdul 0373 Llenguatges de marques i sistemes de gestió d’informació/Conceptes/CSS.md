@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/modul-0373-llenguatges-de-marques-i-sistemes-de-gestio-d-informacio/conceptes/css/"}
 ---
 
-![[publish
+![Pasted image 20240831155310.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Conceptes/adjuntos/Pasted%20image%2020240831155310.png)
 
 **CSS (Cascading Style Sheets)** és el llenguatge utilitzat per definir l'aspecte i el format de les pàgines web creades amb HTML. Permet aplicar estils com colors, fonts, i disseny a diferents elements HTML.
 

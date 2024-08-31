@@ -18,7 +18,7 @@ Una vegada que s'ha establert el disseny, es procedeix a construir la interfíci
     
 - **[[XHTML\|XHTML]] (Extensible HyperText Markup Language)**: És una variant de HTML que segueix les regles de XML, oferint una sintaxi més estricta per garantir una millor coherència en la creació de documents web.
     
-- **[[CSS\|CSS]] (Cascading Style Sheets)**: Utilitzat per aplicar estils als documents HTML. CSS controla l'aspecte visual de la pàgina, incloent colors, fonts, marges, i disposició. Permet crear un disseny atractiu i coherent amb el prototip establert.
+- **[[Mòdul 0373 Llenguatges de marques i sistemes de gestió d’informació/Conceptes/CSS\|CSS]] (Cascading Style Sheets)**: Utilitzat per aplicar estils als documents HTML. CSS controla l'aspecte visual de la pàgina, incloent colors, fonts, marges, i disposició. Permet crear un disseny atractiu i coherent amb el prototip establert.
     
 - **[[M06 JSCliente/Conceptos/JavaScript\|JavaScript]]**: Afegeix interactivitat i dinàmica a les pàgines web. Permet la manipulació del DOM (Document Object Model), la gestió d'esdeveniments, i la realització de comunicacions asincròniques amb el servidor mitjançant AJAX. Això permet actualitzar parts de la pàgina sense necessitat de recarregar-la.
 

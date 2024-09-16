@@ -5,12 +5,18 @@
 
 
 ![Pasted image 20240831133123.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/adjuntos/Pasted%20image%2020240831133123.png)
+
 # Desenvolupament d'una Aplicació Web: Procés Integrat
+
 
 Desenvolupar una aplicació web implica una sèrie de processos que combinen diverses tecnologies i llenguatges per aconseguir una solució funcional i eficient. A continuació, es descriu el procés de desenvolupament d'una aplicació web, integrant els diferents llenguatges i tecnologies utilitzades en cada fase.
 
 
+
+
+
 ## 1 . Estructura del Contingut ([[Frontend\|Frontend]])
+
 
 Una vegada que s'ha establert el disseny, es procedeix a construir la interfície d'usuari utilitzant els següents tecnologies:
 
@@ -20,7 +26,7 @@ Una vegada que s'ha establert el disseny, es procedeix a construir la interfíci
     
 - **[[Mòdul 0373 Llenguatges de marques i sistemes de gestió d’informació/Conceptes/CSS\|CSS]] (Cascading Style Sheets)**: Utilitzat per aplicar estils als documents HTML. CSS controla l'aspecte visual de la pàgina, incloent colors, fonts, marges, i disposició. Permet crear un disseny atractiu i coherent amb el prototip establert.
     
-- **[[M06 JSCliente/Conceptos/JavaScript\|JavaScript]]**: Afegeix interactivitat i dinàmica a les pàgines web. Permet la manipulació del DOM (Document Object Model), la gestió d'esdeveniments, i la realització de comunicacions asincròniques amb el servidor mitjançant AJAX. Això permet actualitzar parts de la pàgina sense necessitat de recarregar-la.
+- **[[Cicle formatiu DAW (Organtzació)/MODULS/M06 JSCliente/Conceptos/JavaScript\|JavaScript]]**: Afegeix interactivitat i dinàmica a les pàgines web. Permet la manipulació del DOM (Document Object Model), la gestió d'esdeveniments, i la realització de comunicacions asincròniques amb el servidor mitjançant AJAX. Això permet actualitzar parts de la pàgina sense necessitat de recarregar-la.
 
 ## 2. Gestió de Dades i [[Backend\|Backend]]
 

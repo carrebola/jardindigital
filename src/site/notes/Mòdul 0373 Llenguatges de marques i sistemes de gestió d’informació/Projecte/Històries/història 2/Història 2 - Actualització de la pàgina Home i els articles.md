@@ -19,8 +19,8 @@ Actualitza les pàgines HTML que mostrin els articles proporcionats, així com l
 
 -  Actualitza la pàgina Home amb els contiguts que trovaràs a l'apartat 'Continguts' d'aquest document. La estructura principal hauria de ser com aquesta:
 
-	```html
-	<!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html lang="ca">
 <head>
   <meta charset="UTF-8">

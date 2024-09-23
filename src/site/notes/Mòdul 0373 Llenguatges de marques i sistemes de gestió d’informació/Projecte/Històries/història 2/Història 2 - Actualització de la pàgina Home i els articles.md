@@ -61,12 +61,13 @@ Actualitza les pàgines HTML que mostrin els articles proporcionats, així com l
 ```
 
 - Utilitza els divs que consideris necessaris per agrupar els continguts. Per exemple:
-	```html
+
+```html
 	<div id="iconos">
-          <div id="autocarava">
-            <img src="images/iconoAutocaravana.png" alt="icono autocaravana">
-            <p>30 CAMPER SITES</p>
-          </div>
+	  <div id="autocarava">
+		<img src="images/iconoAutocaravana.png" alt="icono autocaravana">
+		<p>30 CAMPER SITES</p>
+	  </div>
 ```
 
 *El resultat de la pàgina home amb una part dels continguts de les seccions **about** i **booking** seria semblant al següent:*

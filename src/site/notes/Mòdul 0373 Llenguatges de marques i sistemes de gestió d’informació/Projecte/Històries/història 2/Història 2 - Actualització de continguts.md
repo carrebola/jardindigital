@@ -80,7 +80,7 @@ Actualitza les pàgines HTML que mostrin els articles proporcionats, així com l
 ![Pasted image 20240826175857.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/hist%C3%B2ria%202/adjuntos/Pasted%20image%2020240826175857.png)
 ![Pasted image 20240826175919.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/hist%C3%B2ria%202/adjuntos/Pasted%20image%2020240826175919.png)
 
-a 3. Actualització dels continguts textuals dels articles
+## Tasca 3. Actualització dels continguts textuals dels articles
 
 -  Actualitza els articles amb els contiguts que trovaràs a l'apartat 'Continguts' d'aquest document.
 ### Tasca 4. Comprovació i Confirmació de Canvis:
@@ -94,3 +94,13 @@ a 3. Actualització dels continguts textuals dels articles
 
 	![Pasted image 20240826180335.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/hist%C3%B2ria%202/adjuntos/Pasted%20image%2020240826180335.png)
 
+## Recursos
+
+#### Continguts
+
+### **Article 1: 
+
+--- 
+# L'Encant d'Acampar al Costat del Llac**
+
+Hi ha poques experiències a la vida tan tranquil·les i refrescants com **acampar al costat d'un llac**. La combinació de la natura en el seu estat més pur amb la calma de les aigües és simplement irresistible. Quan arribes al càmping i plantes la tenda a prop de la riba, la primera cosa que notes és la pau que envolta l'entorn. El lleuger onatge de l'aigua i el suau xiuxiueig del vent entre els arbres et conviden a desconnectar del món i gaudir de cada moment.

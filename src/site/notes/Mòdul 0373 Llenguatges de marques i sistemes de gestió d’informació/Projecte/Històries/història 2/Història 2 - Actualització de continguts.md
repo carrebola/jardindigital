@@ -72,25 +72,3 @@ Actualitza les pàgines HTML que mostrin els articles proporcionats, així com l
           </div>
 ```
 
-*El resultat de la pàgina home amb una part dels continguts de les seccions **about** i **booking** seria semblant al següent:*
-
-![Pasted image 20240826175742.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/hist%C3%B2ria%202/adjuntos/Pasted%20image%2020240826175742.png)
-![Pasted image 20240826175823.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/hist%C3%B2ria%202/adjuntos/Pasted%20image%2020240826175823.png)
-![Pasted image 20240826175857.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/hist%C3%B2ria%202/adjuntos/Pasted%20image%2020240826175857.png)
-![Pasted image 20240826175919.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/hist%C3%B2ria%202/adjuntos/Pasted%20image%2020240826175919.png)
-
-### Tasca 3. Actualització dels continguts textuals dels articles
-
--  Actualitza els articles amb els contiguts que trovaràs a l'apartat 'Continguts' d'aquest document.
-### Tasca 4. Comprovació i Confirmació de Canvis:
-    
-- **Visualitza els canvis:** Utilitza l'entorn de GitHub Codespaces per visualitzar i provar les pàgines web en un navegador integrat.
-- **Validació:** Confirma que les pàgines validen correctament.
-- **Fes commit i puja els canvis:** Un cop completades les edicions, utilitza Git per fer commit dels canvis al teu repositori i puja els canvis a GitHub.
-### Tasca 5. Documentació i Informes:
-    
-- **Documenta el teu treball:** Documenta el que has fet a l'arxiu ``readme.md`` i actualitza el repositori.
-
-	![Pasted image 20240826180335.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/hist%C3%B2ria%202/adjuntos/Pasted%20image%2020240826180335.png)
-
-

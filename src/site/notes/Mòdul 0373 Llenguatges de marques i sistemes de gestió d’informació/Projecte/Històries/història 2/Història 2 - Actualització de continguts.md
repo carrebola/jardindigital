@@ -19,3 +19,47 @@ Actualitza les pàgines HTML que mostrin els articles proporcionats, així com l
 
 
 ### Tasca 2. Actualització dels continguts textuals de la pàgina 'Home' (``index.html``)
+
+-  Actualitza la pàgina Home amb els contiguts que trovaràs a l'apartat 'Continguts' d'aquest document. La estructura principal hauria de ser com aquesta:
+```html
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Glamour Camping</title>
+</head>
+<body>
+  <header>
+   Aquí tindrem la part superior de la web
+  </header>
+  <main>
+    <section id="about"> 
+
+    </section>
+    <section id="activity">
+  
+    </section>
+    <section id="action">
+
+    </section>
+    <section id="booking">
+
+    </section>
+    <section id="news">
+
+    </section>
+    <section id="gallery">
+
+    </section>
+  </main>
+
+  <footer>
+    Subscribe to our newletter
+    Pàgina creada per: Carlos Arrebola
+  </footer>
+</body>
+</html>
+```
+
+- Utilitza els divs que consideris necessaris per agrupar els continguts. Per exemple:

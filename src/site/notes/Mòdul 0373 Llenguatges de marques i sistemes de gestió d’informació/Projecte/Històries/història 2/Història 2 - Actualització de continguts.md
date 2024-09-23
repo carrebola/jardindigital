@@ -98,7 +98,7 @@ Actualitza les pàgines HTML que mostrin els articles proporcionats, així com l
 
 #### Continguts
 
-### **Article 1: 
+### Article 1: 
 
 --- 
 # L'Encant d'Acampar al Costat del Llac**
@@ -116,7 +116,7 @@ Per aquells que busquen una experiència de càmping autèntica però còmoda, e
 
 ---
 
-### **Article 2: 
+### Article 2: 
 ---
 # Glamping: Una Nova Manera de Gaudir de la Natura**
 

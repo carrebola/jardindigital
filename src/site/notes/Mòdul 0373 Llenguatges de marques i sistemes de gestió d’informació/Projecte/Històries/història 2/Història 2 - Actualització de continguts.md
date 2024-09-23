@@ -112,3 +112,16 @@ Acampar al costat d'un llac no només ofereix unes vistes espectaculars, sinó q
 <em>Acampar al costat d'un llac també és ideal per a les famílies</em>. Els nens poden passar hores jugant a la vora de l'aigua, construint castells de sorra o buscant pedres especials. La proximitat a l'aigua també afegeix una dimensió única a l'experiència de càmping, fent que sigui més relaxant i oferint moltes oportunitats per connectar amb la natura.
 
 Per aquells que busquen una experiència de càmping autèntica però còmoda, els càmpings a la vora del llac són l'elecció perfecta. La combinació de la **bellesa natural** amb la serenitat de l'aigua crea un entorn incomparable, ideal per a aquells que volen desconnectar i gaudir de la natura en estat pur.
+
+
+---
+
+### **Article 2: 
+---
+# Glamping: Una Nova Manera de Gaudir de la Natura**
+
+El **<strong>glamping</strong>** (glamour + camping) és la tendència més recent en el món del turisme de natura, oferint una combinació única entre el luxe d'un hotel i l'experiència d'acampar a l'aire lliure. Aquesta forma d'acampada permet gaudir de tots els avantatges de la natura, sense renunciar a les comoditats modernes.
+
+Si sempre t'ha atret l'idea d'acampar però t'intimiden les incomoditats associades amb el càmping tradicional, el glamping és la solució perfecta. Les tendes de glamping solen estar equipades amb **<em>llits còmodes</em>**, electricitat, banys privats i fins i tot cuines equipades. Això significa que pots gaudir de les estrelles a la nit i despertar-te amb els sons de la natura, però sense sacrificar el confort.
+
+Una altra de les avantatges del glamping és la seva ubicació. Moltes destinacions de glamping estan situades en llocs espectaculars, com parcs nacionals, muntanyes, deserts i, per descomptat, a la vora de llacs. Aquestes ubicacions privilegiades permeten als hostes gaudir de la **<strong>bellesa natural</strong>** sense la necessitat d'equipament complex o experiència prèvia en càmping.

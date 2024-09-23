@@ -21,6 +21,7 @@ Actualitza les pàgines HTML que mostrin els articles proporcionats, així com l
 ### Tasca 2. Actualització dels continguts textuals de la pàgina 'Home' (``index.html``)
 
 -  Actualitza la pàgina Home amb els contiguts que trovaràs a l'apartat 'Continguts' d'aquest document. La estructura principal hauria de ser com aquesta:
+
 ```html
 <!DOCTYPE html>
 <html lang="ca">
@@ -63,3 +64,18 @@ Actualitza les pàgines HTML que mostrin els articles proporcionats, així com l
 ```
 
 - Utilitza els divs que consideris necessaris per agrupar els continguts. Per exemple:
+
+```html
+	<div id="iconos">
+	  <div id="autocarava">
+		<img src="images/iconoAutocaravana.png" alt="icono autocaravana">
+		<p>30 CAMPER SITES</p>
+	  </div>
+```
+
+*El resultat de la pàgina home amb una part dels continguts de les seccions **about** i **booking** seria semblant al següent:*
+
+![Pasted image 20240826175742.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/hist%C3%B2ria%202/adjuntos/Pasted%20image%2020240826175742.png)
+![Pasted image 20240826175823.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/hist%C3%B2ria%202/adjuntos/Pasted%20image%2020240826175823.png)
+![Pasted image 20240826175857.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/hist%C3%B2ria%202/adjuntos/Pasted%20image%2020240826175857.png)
+![Pasted image 20240826175919.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/hist%C3%B2ria%202/adjuntos/Pasted%20image%2020240826175919.png)

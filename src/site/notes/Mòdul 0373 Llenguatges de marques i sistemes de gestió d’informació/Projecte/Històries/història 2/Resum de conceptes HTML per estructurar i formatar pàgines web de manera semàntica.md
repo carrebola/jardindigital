@@ -28,8 +28,6 @@ L'estructura típica d'una pàgina HTML comença amb la declaració del tipus de
 - **`<body>`**: On es troba el contingut visible, com text, imatges, seccions, etc.
 
 
-
-
 #### 2. **Encapçalaments** (`<h1>` a `<h6>`)
 
 Els encapçalaments són utilitzats per estructurar el contingut en seccions jeràrquiques.
@@ -43,8 +41,6 @@ Els encapçalaments són utilitzats per estructurar el contingut en seccions jer
 
 - **`<h1>`** és el títol principal d'una pàgina, i **`<h2>`** a **`<h6>`** indiquen subseccions.
 
-
-
 #### 3. **Pàragraf** (`<p>`)
 
 Els paràgrafs són la manera principal de presentar text en blocs.
@@ -53,8 +49,6 @@ Els paràgrafs són la manera principal de presentar text en blocs.
 <p>Aquest és un paràgraf de text. Es pot combinar amb altres etiquetes per formatar el text.</p>
 
 ```
-
-
 
 #### 4. **Text en negreta** (`<strong>`) i **cursiva** (`<em>`)
 
@@ -68,14 +62,11 @@ Es fan servir per donar èmfasi al text.
 - **`<strong>`**: Marca text amb importància semàntica (apareix en negreta).
 - **`<em>`**: Marca èmfasi, normalment en cursiva.
 
-
-
 #### 5. **Llistes no ordenades** (`<ul>`) i **llistes ordenades** (`<ol>`)
 
 Les llistes són útils per estructurar informació en punts o numerar ítems.
 
 - **Llista no ordenada (amb punts):**
-
 ```html 
 <ul>
   <li>Ítem 1</li>
@@ -96,8 +87,6 @@ Les llistes són útils per estructurar informació en punts o numerar ítems.
 
 ```
 
-
-
 #### 6. **Cites** (`<blockquote>`)
 
 Per a textos citats o destacats.
@@ -109,8 +98,6 @@ Per a textos citats o destacats.
 
 ```
 Apareix destacat i normalment indenta el text.
-
-
 
 #### 7. **Seccions semàntiques** (`<header>`, `<main>`, `<section>`, `<footer>`)
 
@@ -139,8 +126,6 @@ Aquestes etiquetes s'utilitzen per a una millor organització i claredat en la d
 - **`<section>`**: Per dividir el contingut en parts lògiques.
 - **`<footer>`**: Per a la part inferior de la pàgina, com informació legal o crèdits.
 
-
-
 #### 8. **Divs per agrupació** (`<div>`)
 
 Les **divs** són contenidors genèrics utilitzats per agrupar altres elements per estil o estructura.
@@ -155,14 +140,12 @@ Les **divs** són contenidors genèrics utilitzats per agrupar altres elements p
 #### 9. **Etiqueta `<img>` per inserir imatges**
 
 L'etiqueta `<img>` s'utilitza per inserir imatges en una pàgina web. És una etiqueta auto-tancada, el que significa que no necessita una etiqueta de tancament. Els atributs més comuns per a aquesta etiqueta són `src`, `alt`, `width`, i `height`.
-
 ### Sintaxi bàsica
 
 ```html
 
 <img src="ruta/de/la/imatge.jpg" alt="Descripció de la imatge" width="500" height="300">
 ```
-
 
 ### Atributs importants:
 
@@ -187,14 +170,12 @@ _Exemple:_
     <img src="images/foto1.jpg" alt="Paisatge muntanyós" width="500" height="300"> 
 ```
 
-
 ### Exemples
 
 1. Imatge amb ruta relativa: 
 ```html
 <img src="imatges/logo.png" alt="Logo de l'empresa">
 ```
-
 
 2. Imatge amb URL absoluta:
 

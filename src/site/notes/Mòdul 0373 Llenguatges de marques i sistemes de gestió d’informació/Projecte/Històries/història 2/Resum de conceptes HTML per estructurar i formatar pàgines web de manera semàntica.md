@@ -7,22 +7,10 @@ HTML proporciona etiquetes semàntiques que ajuden a estructurar el contingut d'
 
 #### 1. **Estructura bàsica d'una pàgina HTML**
 
-L'estructura típica d'una pàgina HTML comença amb la declaració del tipus de document i es divideix en dues parts principals:
+L'estructura típica d'una pàgina HTML comença amb la declaració del tipus de document i es divideix en dues parts principals: `<head>` i `<body>`.
 
 
-```html
-<!DOCTYPE html> 
-<html lang="ca"> 
-<head>   
-	<meta charset="UTF-8">   
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Títol de la pàgina</title> 
-</head> 
-<body>   
-	<!-- Contingut principal va aquí --> 
-</body> 
-</html>
-```
+
 
 - **`<head>`**: Conté metadades sobre la pàgina (jocs de caràcters, títol, enllaços a CSS, etc.).
 - **`<body>`**: On es troba el contingut visible, com text, imatges, seccions, etc.

@@ -10,13 +10,25 @@ HTML proporciona etiquetes semàntiques que ajuden a estructurar el contingut d'
 L'estructura típica d'una pàgina HTML comença amb la declaració del tipus de document i es divideix en dues parts principals: `<head>` i `<body>`.
 
 
-
+```html
+<!DOCTYPE html> 
+<html lang="ca"> 
+<head>   
+	<meta charset="UTF-8">   
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Títol de la pàgina</title> 
+</head> 
+<body>   
+	<!-- Contingut principal va aquí --> 
+</body> 
+</html>
+```
 
 - **`<head>`**: Conté metadades sobre la pàgina (jocs de caràcters, títol, enllaços a CSS, etc.).
 - **`<body>`**: On es troba el contingut visible, com text, imatges, seccions, etc.
 
 
----
+
 
 #### 2. **Encapçalaments** (`<h1>` a `<h6>`)
 
@@ -31,7 +43,7 @@ Els encapçalaments són utilitzats per estructurar el contingut en seccions jer
 
 - **`<h1>`** és el títol principal d'una pàgina, i **`<h2>`** a **`<h6>`** indiquen subseccions.
 
----
+
 
 #### 3. **Pàragraf** (`<p>`)
 
@@ -42,7 +54,7 @@ Els paràgrafs són la manera principal de presentar text en blocs.
 
 ```
 
----
+
 
 #### 4. **Text en negreta** (`<strong>`) i **cursiva** (`<em>`)
 
@@ -56,7 +68,7 @@ Es fan servir per donar èmfasi al text.
 - **`<strong>`**: Marca text amb importància semàntica (apareix en negreta).
 - **`<em>`**: Marca èmfasi, normalment en cursiva.
 
----
+
 
 #### 5. **Llistes no ordenades** (`<ul>`) i **llistes ordenades** (`<ol>`)
 
@@ -84,7 +96,7 @@ Les llistes són útils per estructurar informació en punts o numerar ítems.
 
 ```
 
----
+
 
 #### 6. **Cites** (`<blockquote>`)
 
@@ -98,7 +110,7 @@ Per a textos citats o destacats.
 ```
 Apareix destacat i normalment indenta el text.
 
----
+
 
 #### 7. **Seccions semàntiques** (`<header>`, `<main>`, `<section>`, `<footer>`)
 
@@ -127,7 +139,7 @@ Aquestes etiquetes s'utilitzen per a una millor organització i claredat en la d
 - **`<section>`**: Per dividir el contingut en parts lògiques.
 - **`<footer>`**: Per a la part inferior de la pàgina, com informació legal o crèdits.
 
----
+
 
 #### 8. **Divs per agrupació** (`<div>`)
 

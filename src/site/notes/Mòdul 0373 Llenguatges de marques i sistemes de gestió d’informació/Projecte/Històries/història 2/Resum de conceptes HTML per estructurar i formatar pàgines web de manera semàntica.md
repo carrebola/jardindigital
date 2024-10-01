@@ -26,3 +26,37 @@ L'estructura típica d'una pàgina HTML comença amb la declaració del tipus de
 - **`<head>`**: Conté metadades sobre la pàgina (jocs de caràcters, títol, enllaços a CSS, etc.).
 - **`<body>`**: On es troba el contingut visible, com text, imatges, seccions, etc.
 
+
+#### 2. **Encapçalaments** (`<h1>` a `<h6>`)
+
+Els encapçalaments són utilitzats per estructurar el contingut en seccions jeràrquiques.
+
+```html
+<h1>Títol principal de la pàgina</h1>
+<h2>Subtítol</h2>
+<h3>Encapçalament de nivell 3</h3>
+
+```
+
+- **`<h1>`** és el títol principal d'una pàgina, i **`<h2>`** a **`<h6>`** indiquen subseccions.
+
+#### 3. **Pàragraf** (`<p>`)
+
+Els paràgrafs són la manera principal de presentar text en blocs.
+
+```html
+<p>Aquest és un paràgraf de text. Es pot combinar amb altres etiquetes per formatar el text.</p>
+
+```
+
+#### 4. **Text en negreta** (`<strong>`) i **cursiva** (`<em>`)
+
+Es fan servir per donar èmfasi al text.
+
+```html 
+<p>Aquest text és <strong>molt important</strong> i aquest altre és <em>rellevant</em>.</p>
+
+```
+
+- **`<strong>`**: Marca text amb importància semàntica (apareix en negreta).
+- **`<em>`**: Marca èmfasi, normalment en cursiva.

@@ -39,13 +39,3 @@ Els encapçalaments són utilitzats per estructurar el contingut en seccions jer
 ```
 
 - **`<h1>`** és el títol principal d'una pàgina, i **`<h2>`** a **`<h6>`** indiquen subseccions.
-
-#### 3. **Pàragraf** (`<p>`)
-
-Els paràgrafs són la manera principal de presentar text en blocs.
-
-```html
-<p>Aquest és un paràgraf de text. Es pot combinar amb altres etiquetes per formatar el text.</p>
-
-```
-

@@ -3,7 +3,7 @@
 ---
 
 
-HTML proporciona etiquetes semàntiques que ajuden a estructurar el contingut d'una manera clara i comprensible, tant per a usuaris com per a motors de cerca. A continuació s'explica com utilitzar algunes de les etiquetes més comunes.
+HTML proporciona etiquetes semàntiques que ajuden a estructurar el contingut d'una manera clara i comprensible, tant per a usuaris com per a motors de cerca. A continuació s'explica com utilitzar algunes de les etiquetes més comunes...
 
 #### 1. **Estructura bàsica d'una pàgina HTML**
 
@@ -23,9 +23,8 @@ L'estructura típica d'una pàgina HTML comença amb la declaració del tipus de
 </html>
 ```
 
-- **`<head>`**: Conté metadades sobre la pàgina (jocs de caràcters, títol, enllaços a CSS, etc.).
-- **`<body>`**: On es troba el contingut visible, com text, imatges, seccions, etc.
-
+- **`head`**: Conté metadades sobre la pàgina (jocs de caràcters, títol, enllaços a CSS, etc.).
+- **`body`**: On es troba el contingut visible, com text, imatges, seccions, etc.
 
 #### 2. **Encapçalaments** (`<h1>` a `<h6>`)
 
@@ -35,7 +34,6 @@ Els encapçalaments són utilitzats per estructurar el contingut en seccions jer
 <h1>Títol principal de la pàgina</h1>
 <h2>Subtítol</h2>
 <h3>Encapçalament de nivell 3</h3>
-
 ```
 
 - **`<h1>`** és el títol principal d'una pàgina, i **`<h2>`** a **`<h6>`** indiquen subseccions.
@@ -46,7 +44,6 @@ Els paràgrafs són la manera principal de presentar text en blocs.
 
 ```html
 <p>Aquest és un paràgraf de text. Es pot combinar amb altres etiquetes per formatar el text.</p>
-
 ```
 
 #### 4. **Text en negreta** (`<strong>`) i **cursiva** (`<em>`)
@@ -55,7 +52,6 @@ Es fan servir per donar èmfasi al text.
 
 ```html 
 <p>Aquest text és <strong>molt important</strong> i aquest altre és <em>rellevant</em>.</p>
-
 ```
 
 - **`<strong>`**: Marca text amb importància semàntica (apareix en negreta).
@@ -72,7 +68,6 @@ Les llistes són útils per estructurar informació en punts o numerar ítems.
   <li>Ítem 2</li>
   <li>Ítem 3</li>
 </ul>
-
 ```
 
 - **Llista ordenada (amb números):**
@@ -83,7 +78,6 @@ Les llistes són útils per estructurar informació en punts o numerar ítems.
   <li>Ítem 2</li>
   <li>Ítem 3</li>
 </ol>
-
 ```
 
 #### 6. **Cites** (`<blockquote>`)
@@ -94,7 +88,6 @@ Per a textos citats o destacats.
 <blockquote>
   "Aquesta és una cita famosa."
 </blockquote>
-
 ```
 Apareix destacat i normalment indenta el text.
 
@@ -106,7 +99,6 @@ Aquestes etiquetes s'utilitzen per a una millor organització i claredat en la d
 <header>
   <h1>Títol de la pàgina</h1>
 </header>
-
 <main>
   <section>
     <h2>Secció principal</h2>
@@ -117,7 +109,6 @@ Aquestes etiquetes s'utilitzen per a una millor organització i claredat en la d
 <footer>
   <p>&copy; 2024 La meva pàgina web</p>
 </footer>
-
 ```
 
 - **`<header>`**: Per al contingut superior com el títol i menús de navegació.
@@ -133,7 +124,6 @@ Les **divs** són contenidors genèrics utilitzats per agrupar altres elements p
 <div class="box">
   <p>Aquest és un paràgraf dins d'un div.</p>
 </div>
-
 ```
 
 #### 9. **Etiqueta `<img>` per inserir imatges**
@@ -142,7 +132,6 @@ L'etiqueta `<img>` s'utilitza per inserir imatges en una pàgina web. És una et
 ### Sintaxi bàsica
 
 ```html
-
 <img src="ruta/de/la/imatge.jpg" alt="Descripció de la imatge" width="500" height="300">
 ```
 

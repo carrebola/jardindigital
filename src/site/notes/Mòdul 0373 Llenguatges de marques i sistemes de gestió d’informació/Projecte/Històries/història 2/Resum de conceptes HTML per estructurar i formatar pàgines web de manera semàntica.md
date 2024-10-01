@@ -25,3 +25,17 @@ L'estructura típica d'una pàgina HTML comença amb la declaració del tipus de
 
 - **`<head>`**: Conté metadades sobre la pàgina (jocs de caràcters, títol, enllaços a CSS, etc.).
 - **`<body>`**: On es troba el contingut visible, com text, imatges, seccions, etc.
+
+
+#### 2. **Encapçalaments** (`<h1>` a `<h6>`)
+
+Els encapçalaments són utilitzats per estructurar el contingut en seccions jeràrquiques.
+
+```html
+<h1>Títol principal de la pàgina</h1>
+<h2>Subtítol</h2>
+<h3>Encapçalament de nivell 3</h3>
+
+```
+
+- **`<h1>`** és el títol principal d'una pàgina, i **`<h2>`** a **`<h6>`** indiquen subseccions.

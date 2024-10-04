@@ -5,18 +5,15 @@
 [[Mòdul 0373 Llenguatges de marques i sistemes de gestió d’informació/Projecte/M0373 - Projecte 1 'Glamour Camping'\|M0373 - Projecte 1 'Glamour Camping']]
 ## **Objectiu:** 
 Configurar un entorn de desenvolupament utilitzant GitHub Codespaces i començar a treballar en el projecte web, creant les tres pàgines HTML segons els requisits definits.
-
 ## Tasques:
 
 ### Tasca 1. Configuració de GitHub Codespaces:
-    
 - **Accedeix a GitHub Codespaces:** 
 	- Inicia sessió a GitHub i obre el teu repositori o crea'n un nou amb nom ``daw1-apellido-apellido-nombre-glamourcamping``. 
 	
 	-![Pasted image 20240826160812.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/adjuntos/Pasted%20image%2020240826160812.png)
 	
 	- Després, accedeix a la secció de "Codespaces" i crea un nou Codespace per al teu repositori.
-
 	![Pasted image 20240826161003.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/adjuntos/Pasted%20image%2020240826161003.png)
 
 - **Configura l'entorn de treball:** 
@@ -82,4 +79,39 @@ Configurar un entorn de desenvolupament utilitzant GitHub Codespaces i començar
 
 	![Pasted image 20240826163600.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/adjuntos/Pasted%20image%2020240826163600.png)
 
-**Recursos:**
+## **Recursos:**
+
+### Git
+
+- **Què és?**: Un sistema de control de versions que permet fer un seguiment dels canvis en fitxers i col·laborar amb altres persones.
+- **Per què utilitzar-ho?**: Permet gestionar projectes de manera eficient, guardar diferents versions del codi, i treballar en equip sense conflictes.
+
+### GitHub
+
+- **Què és?**: Una plataforma en línia que utilitza Git per emmagatzemar i gestionar repositoris de codi.
+- **Funcionalitats clau**:
+    - **Repositoris**: Emmagatzema el codi i l'historial de canvis.
+    - **Pull requests**: Permet revisar i integrar canvis d'altres desenvolupadors.
+    - **Issues**: Ajuda a gestionar tasques i errors en el projecte.
+
+### GitHub Codespaces
+
+- **Què és?**: Un entorn de desenvolupament basat en el núvol.
+- **Per què utilitzar-ho?**: Permet començar a codificar immediatament sense configurar res al teu ordinador. Tot està preparat per tu!
+
+### Visual Studio Code (VSCode)
+
+- **Què és?**: Un editor de codi molt popular i gratuït.
+- **Funcionalitats clau**:
+    - **Extensible**: Permet instal·lar extensions per millorar la funcionalitat.
+    - **Integració amb Git**: Permet fer canvis al codi, gestionar repositoris i fer commits directament des de l'editor.
+
+### Resum de l'ús
+
+1. **Instal·la Git** i configura el teu entorn local.
+2. **Crea un repositori a GitHub** per al teu projecte.
+3. **Fes servir Git** per fer commits dels teus canvis i pujar-los a GitHub.
+4. **Utilitza GitHub Codespaces** si vols començar ràpidament en un entorn preconfigurat.
+5. **Crea i edita codi amb VSCode**, aprofitant les seves funcionalitats per facilitar la programació.
+
+Aquestes eines són fonamentals per al treball en equip i el desenvolupament de software, així que és útil familiaritzar-se amb elles! Si vols més detalls sobre cadascuna, pots consultar [Git](https://git-scm.com), [GitHub](https://github.com), [GitHub Codespaces](https://github.com/features/codespaces) i [Visual Studio Code](https://code.visualstudio.com).

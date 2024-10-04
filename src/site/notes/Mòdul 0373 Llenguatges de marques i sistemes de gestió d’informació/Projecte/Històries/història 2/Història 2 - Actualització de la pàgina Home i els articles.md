@@ -3,7 +3,7 @@
 ---
 
 
-## Objectiu2: 
+## Objectiu: 
 
 Actualitza les pàgines HTML que mostrin els articles proporcionats, així com la pàgina principal, utilitzant les etiquetes HTML adequades per estructurar i formatar el contingut de manera semàntica.
 
@@ -125,9 +125,9 @@ En resum, el glamping és la manera ideal de combinar la comoditat amb l'aventur
 
 ---
 
-#### **Article 3: 
+#### **Article 3:**
 ___
-# Els Millors Destins per Gaudir del Glamping amb Estil**
+# **Els Millors Destins per Gaudir del Glamping amb Estil**
 
 El **glamping** ha esdevingut una de les maneres més populars de connectar amb la natura sense renunciar a les comoditats modernes. Però no tots els destins de glamping són iguals; hi ha llocs que porten aquesta experiència al següent nivell, oferint una fusió perfecta entre luxe i natura. Aquí et presentem alguns dels millors destins per gaudir del glamping amb estil.
 

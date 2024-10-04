@@ -159,5 +159,3 @@ L'estructura típica d'una pàgina HTML comença amb la declaració del tipus de
 </html>
 ```
 
-- **`head`**: Conté metadades sobre la pàgina (jocs de caràcters, títol, enllaços a CSS, etc.).
-- **`body`**: On es troba el contingut visible, com text, imatges, seccions, etc.

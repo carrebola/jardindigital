@@ -137,9 +137,4 @@ El glamping és molt més que una simple tendència; és una nova manera de viat
 
 ---
 
-### Resum de conceptes
-
-HTML proporciona etiquetes semàntiques que ajuden a estructurar el contingut d'una manera clara i comprensible, tant per a usuaris com per a motors de cerca. A continuació s'explica com utilitzar algunes de les etiquetes més comunes...
-
-#### 1. **Estructura bàsica d'una pàgina HTML**
 

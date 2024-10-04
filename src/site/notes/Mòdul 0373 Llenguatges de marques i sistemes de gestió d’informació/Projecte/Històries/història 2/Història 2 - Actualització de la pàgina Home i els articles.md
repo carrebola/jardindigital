@@ -143,4 +143,3 @@ HTML proporciona etiquetes semàntiques que ajuden a estructurar el contingut d'
 
 #### 1. **Estructura bàsica d'una pàgina HTML**
 
-L'estructura típica d'una pàgina HTML comença amb la declaració del tipus de document i es divideix en dues parts principals: `<head>` i `<body>`.

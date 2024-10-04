@@ -2,26 +2,10 @@
 {"dg-publish":true,"permalink":"/modul-0373-llenguatges-de-marques-i-sistemes-de-gestio-d-informacio/programacio-del-modul/programacio-0373-llenguatges-de-marques-i-sistemes-de-gestio-d-informacio/"}
 ---
 
----
-markmap:
-  maxWidth: 300
-  initialExpandLevel: 3
----
-
-# 0373. Llenguatges de marques i sistemes de gestió d’informació
-
 ## Durada
 - 99 hores
-
 ## Hores a realitzar en el centre educatiu
 - 66 hores
-
-## Hores d’estada a l’empresa
-- 33 hores
-
-## Equivalència en crèdits ECTS
-- 7
-
 ## Resultats d’aprenentatge i criteris d’avaluació
 
 ### 1. Reconeix les característiques de llenguatges de marques analitzant i interpretant fragments de codi

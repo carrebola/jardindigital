@@ -9,11 +9,9 @@
 Aquest projecte té com a objectiu desenvolupar una landing page per a un càmping.
 
 ![Pasted image 20240826130153.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/adjuntos/Pasted%20image%2020240826130153.png)
-
 ## Metodologia
 
 Per al desenvolupament de la landing page del càmping, seguirem la metodologia **Scrumban**, que combina elements de **Scrum** i **Kanban**. Aquesta metodologia ens permetrà gestionar el projecte de manera flexible, adaptant-nos a les necessitats que puguin sorgir durant el desenvolupament.
-
 ### Divisió en Sprints i Històries d'Usuari
 
 El projecte es dividirà en **tres sprints**, cadascun dels quals estarà format per diverses **històries d'usuari**. Cada història representa una part específica de la web que es desenvoluparà aplicant tot el que s'hagi après a classe, incloent-hi HTML, CSS, JavaScript, i l'ús de dades JSON.
@@ -44,11 +42,5 @@ El projecte es dividirà en **tres sprints**, cadascun dels quals estarà format
     - Implementar un flux RSS per mantenir els usuaris informats de les últimes novetats i esdeveniments del càmping.
 
 
-## Backlog del producte
- - Sprint 1: Maquetació del projecte
-	 - Història 1: Entorn de desenvolupament
-	 - Història 2: Història 2 - Actualització de la pàgina Home i els articles
-	 - ...
-- Sprint 2: Lògica amb JavaScript
-- Sprint 3: Connexió amb base de dades (Firebase)
+
  

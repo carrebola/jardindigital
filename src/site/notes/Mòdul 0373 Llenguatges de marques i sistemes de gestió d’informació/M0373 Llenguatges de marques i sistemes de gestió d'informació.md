@@ -12,5 +12,5 @@
 - [[Mòdul 0373 Llenguatges de marques i sistemes de gestió d’informació/Projecte/Prototip amb Figma\|Prototip amb Figma]]
 ### Backlog de projecte
 [[Mòdul 0373 Llenguatges de marques i sistemes de gestió d’informació/Projecte/Històries/Historia 1/Història 1 - Configuració i Treball amb GitHub Codespaces\|Història 1 - Configuració i Treball amb GitHub Codespaces]]
-[[Mòdul 0373 Llenguatges de marques i sistemes de gestió d’informació/Projecte/Històries/història 2/Història 2 - Actualització de la pàgina Home i els articles\|Història 2 - Actualització de la pàgina Home i els articles]]
+[[Mòdul 0373 Llenguatges de marques i sistemes de gestió d’informació/Projecte/Històries/història 2/Història 21 - Actualització de la pàgina Home i els articles\|Història 21 - Actualització de la pàgina Home i els articles]]
 

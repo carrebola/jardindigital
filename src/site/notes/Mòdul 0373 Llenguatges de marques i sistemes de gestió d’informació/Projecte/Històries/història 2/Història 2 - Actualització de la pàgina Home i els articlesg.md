@@ -4,6 +4,7 @@
 
 ## Objectiu: 
 
+
 Actualitza les pàgines HTML que mostrin els articles proporcionats, així com la pàgina principal, utilitzant les etiquetes HTML adequades per estructurar i formatar el contingut de manera semàntica.
 ### Tasca 1. Actualització dels continguts dels articles
 

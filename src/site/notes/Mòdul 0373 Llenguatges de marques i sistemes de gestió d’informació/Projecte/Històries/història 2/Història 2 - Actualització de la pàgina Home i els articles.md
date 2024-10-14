@@ -13,6 +13,7 @@ Actualitza les pàgines HTML que mostrin els articles proporcionats, així com l
 	*Exemple de com quedaria la pàgina ``article1.html``*
 	![Pasted image 20240826165922.png](/img/user/M%C3%B2dul%200373%20Llenguatges%20de%20marques%20i%20sistemes%20de%20gesti%C3%B3%20d%E2%80%99informaci%C3%B3/Projecte/Hist%C3%B2ries/adjuntos/Pasted%20image%2020240826165922.png)
 
+
 ### Tasca 2. Actualització dels continguts textuals de la pàgina 'Home' (``index.html``)
 
 -  Actualitza la pàgina Home amb els contiguts que trovaràs a l'apartat 'Continguts' d'aquest document. La estructura principal hauria de ser com aquesta:
